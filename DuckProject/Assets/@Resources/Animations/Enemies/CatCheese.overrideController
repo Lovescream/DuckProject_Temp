@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CatCheese
+  m_Controller: {fileID: 9100000, guid: 6c96bde0d657aa24d93e166bb613e094, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3959c58b5a5f07c46a6e9a0a046fd8cd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 28e3604b5b42a5c45bc8609401a5c598, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d261c46a1eea23044855505cdec5e36d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f2ab3dc494243714d9472e0e928bd0a9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f62377158681b1f479f8d6490305c8bd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: feb1dcf8a5bd362448bf58804d600a4f, type: 2}

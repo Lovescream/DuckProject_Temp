@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sprites
+  m_EditorClassIdentifier: 
+  m_GroupName: Sprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b85fbd6728327794aa2a977f5004d7bc
+  m_SerializeEntries:
+  - m_GUID: ab39c664eb9f21d40b1fc99093d3373f
+    m_Address: Gem_Bronze.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29e2afe4dfa71b241811143079603a9f
+    m_Address: Gem_Gold.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1b10dcbf7b742444b8e7c19c0dfa17c
+    m_Address: Gem_Silver.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 098391da68bb62f4cb7dd9addbff17b4
+    m_Address: Item_Icon_Popgun.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af750bb306996d249aea40cf70bd8240
+    m_Address: Item_Icon_Shovel.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 814b03621ee472044a9003da2c5ac70e
+    m_Address: Item_Icon_Ball.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81ed6b77bf4c8fd41bd86458e612a1cf
+    m_Address: Item_Icon_Bow.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e865644fe82983143a46dda0cca94608
+    m_Address: Item_Icon_Stick.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 690a9ea2b30d25243934843083e0af9f
+    m_Address: Item_Icon_PoisonBottle.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7da40d90efc1f045942ed198c8d883e
+    m_Address: Item_Icon_Knife.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee6eda0d7512e7142a953c06c66a4065
+    m_Address: Item_Icon_FireWand.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34f4034126601d2499de58c1f3f0e208
+    m_Address: Item_Icon_IcedAmericano.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc3adb3cbcb5ba946866c356be42fb32
+    m_Address: Item_Icon_GoldfishBag.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 091078059bfbdf24b8a96a77a6f76312
+    m_Address: Item_Icon_RingOfWaves.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 044fd08224b654e4eb4f75fc1ae29f66
+    m_Address: Item_Icon_Parasol.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed6b9bf8cd9c1db42814a5266d25bf02
+    m_Address: Item_Icon_WaterGun.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e695e155c3764bb49923268ca0c63937
+    m_Address: Item_Icon_Watermelon.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cf7f074a965c834c899688567168ec0
+    m_Address: Item_Icon_IceWand.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b53a020887f9734faa34a5f8b6131a2
+    m_Address: Item_Icon_PigeonLauncher.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e8cdd800258f0d4397a3e2d3214c57f
+    m_Address: Item_Icon_BananaPeel.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b249a46cf34d7246b4b8936548ac3a0
+    m_Address: Item_Icon_SoccerBall.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8aeb07d8032e834b82c2e07fed6ec90
+    m_Address: Item_Icon_HeartNecklace.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5655d0b428940f94483a1346d0d0cfb3
+    m_Address: Item_Icon_WaterdropEarrings.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ac2b66b50b04aa43846b20ccca26166
+    m_Address: Item_Icon_CloudBracelet.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af53555676a472f4c95ea086d830464d
+    m_Address: Item_Icon_Feather.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94aa04c2eaa337c46aa9e8541a7d1e13
+    m_Address: Item_Icon_Acorn.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b5a393f033d6914a9eec4b9f7c997b0
+    m_Address: Item_Icon_WitchsBroom.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad092d97d5682f747bdd2f233744845d
+    m_Address: Item_Icon_Magnet.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b182a482a7636d54d864b624fde21615
+    m_Address: Item_Icon_RubberDuck.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 88a2c445d8fd85f43972a983c4f4c1d9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4cec124b8bdf4234d9ce7d4efa343531, type: 2}
+    - {fileID: 11400000, guid: 0c69dcf99b53d584ba82b7f578dd8636, type: 2}

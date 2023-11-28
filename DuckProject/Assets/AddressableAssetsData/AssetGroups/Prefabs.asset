@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bdbf9c45077f1a040891a49fc44ccbed
+  m_SerializeEntries:
+  - m_GUID: be667bd234e2c8044b615fb8a57da4ea
+    m_Address: Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6084b45ed65f6447aa4688ae85caf7d
+    m_Address: Enemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 420a19e9037b2ba4b80db37c7e164ce5
+    m_Address: BulletProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e3ded0bb7272e54e975a7334f1ba4d4
+    m_Address: BallProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a44533414da7b74aafe7a73f684e4ae
+    m_Address: Balls.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dd0629a4a90e6a419a53a686d10b0a0
+    m_Address: DamageText.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8c77fb2ffe206346bbef2c3709b49a9
+    m_Address: Map_Stage01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a78546171f3e8284d8ad9fafeb434b99
+    m_Address: Gem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b4b802093f6be7409109875e26e869d
+    m_Address: ShovelProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f1a0ccffa897e64dae658c4960eba58
+    m_Address: ArrowProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f8730dc4cad65d42a193606fb98a4d2
+    m_Address: StickProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8d61ee8ebd323b4bb1f706686adab58
+    m_Address: PoisonFieldProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57ed4aa5c45fcf94c89c22bbe574709c
+    m_Address: KnifeProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b2625a8329be4046a2860502e143d9a
+    m_Address: FireboltProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf7c032a24aa943488efee928905908f
+    m_Address: Bomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44a5c3b6c004b4a4b84f7f2bfc850aec
+    m_Address: TreasureChest.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c6ff6161e2047b4684174cf4b9aef4c
+    m_Address: EliteEnemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 970d4d73dae09704682b497933a7553c
+    m_Address: WaterGunProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7305d86216cde774889f61bc0714d2bd
+    m_Address: WatermelonProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42c2bd76cfea74845be0627e75b628ad
+    m_Address: IceboltProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64857182360465648a2692f425632633
+    m_Address: PigeonProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29063b48c3745f74787e3a919744f28e
+    m_Address: BananaPeelProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 051178a5aa609ad4887b2c9708f1e539
+    m_Address: SoccerBallProjectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60d23804dffc7be4fbb41cbcd1f9aa70
+    m_Address: Boss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 88a2c445d8fd85f43972a983c4f4c1d9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 81fb0837e341c2f4dada20b833e391bf, type: 2}
+    - {fileID: 11400000, guid: 24593a8fecbb86c4fa194199209a2de0, type: 2}

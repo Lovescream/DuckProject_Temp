@@ -1,0 +1,11 @@
+level,index,spawnInterval,onceSpawnCount,time,enemyKey,eliteKey,SpawnPositionType,SpawnDistance,gemRatio
+1,1,3,3,30,Dog,,EdgeOfMap,8,1
+1,2,3,4,30,Cat,,EdgeOfMap,8,1.05
+1,3,3,5,30,Dog|Cat,,EdgeOfMap,8,1.1
+1,4,3,6,30,Dog|DogBlack|DogBrown|DogWhite,DogElite,EdgeOfMap,8,1.15
+1,5,3,7,30,Cat|CatBlack|CatCheese|CatWhite,,EdgeOfMap,8,1.2
+1,6,3,8,30,Dog|DogBlack|DogBrown|DogWhite,,Around,8,1.25
+1,7,2,9,30,Cat|CatBlack|CatCheese|CatWhite,,Around,8,1.3
+1,8,2,10,30,Dog|DogBlack|DogBrown|DogWhite|Cat|CatBlack|CatCheese|CatWhite,,EdgeOfMap,8,1.35
+1,9,2,11,30,Dog|DogBlack|DogBrown|DogWhite|Cat|CatBlack|CatCheese|CatWhite,,EdgeOfMap,8,1.4
+1,10,2,12,30,Dog|DogBlack|DogBrown|DogWhite|Cat|CatBlack|CatCheese|CatWhite,,Around,8,1.5

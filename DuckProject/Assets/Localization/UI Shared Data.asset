@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 54a968ca784b8eb459be03697eb2b88e
+  m_Entries:
+  - m_Id: 6467436544
+    m_Key: txtTouchToClose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28185542656
+    m_Key: txtGetTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30790205440
+    m_Key: txtGetDescription
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5314304622592
+    m_Key: txtSelectItem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5389596573696
+    m_Key: txtItemSelectTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5554306891776
+    m_Key: txtBtnADRefresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5591258710016
+    m_Key: txtBtnCardRefresh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5629347184640
+    m_Key: txtRefreshCount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7353092882432
+    m_Key: txtPause
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7356108587008
+    m_Key: txtResume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7903616253952
+    m_Key: txtSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7906850062336
+    m_Key: txtLanguage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81733621727232
+    m_Key: txtTitleContinue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81735479803904
+    m_Key: txtEnd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 81739959320576
+    m_Key: txtContinue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4114850636447744
+    m_Key: txtSurvivedWave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4114927526428672
+    m_Key: txtSurvivedTime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4114991674114048
+    m_Key: txtMin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4115009030144000
+    m_Key: txtSec
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4322179877257216
+    m_Key: btnStart
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7406841825499021314
+  references:
+    version: 2
+    RefIds:
+    - rid: 7406841825499021314
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1697771742493

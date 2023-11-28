@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c536914eba8c9014aac113a69ea961a8
+  m_SerializeEntries:
+  - m_GUID: 345817dc40592bf4b84f047f67b3600a
+    m_Address: UI_GameScene.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b9b14d4b12391c4fb3390f3ed589966
+    m_Address: UI_Joystick.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb6b0f0f426369c4a8b9cd97f1c5e541
+    m_Address: UI_Popup_ItemSelect.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50fd512c0e19ee74eaedf9ab3d1144fa
+    m_Address: UI_ItemCard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00b3782f9e72a224f9411a43bd6f29f0
+    m_Address: UI_Popup_GetItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5033642842793d749ad77bbb90579aa4
+    m_Address: UI_Popup_Pause.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70197e137f77ca84cb347c43026c6e0c
+    m_Address: UI_Popup_Settings.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab0bbeebed2e15f49b24150a7935c4f9
+    m_Address: UI_Popup_Continue.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d5bba8b251d9d5449e383c4cc442520
+    m_Address: UI_Popup_GameOver.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 687355696ee314042800728ade1eea2f
+    m_Address: UI_LobbyScene.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f952a6d756cd73341afe04b0f5983126
+    m_Address: UI_Popup_SelectStage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cd1845a8f8a76a4ba2e3a18a3e79c58
+    m_Address: SceneChangeEffect_In_Sub.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2004e1c69181afa4ba9352cc9adf45e0
+    m_Address: SceneChangeEffect_In.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d3014f1577910f4299c405ad05d3130
+    m_Address: SceneChangeEffect_Out_Sub.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16db062135e425f46aaef6fa642cb33b
+    m_Address: SceneChangeEffect_Out.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 88a2c445d8fd85f43972a983c4f4c1d9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2068a263c7fc2e54e88b77e4ff53bec7, type: 2}
+    - {fileID: 11400000, guid: fe9690d84bc1ebd4a8fc56c92b6311fe, type: 2}

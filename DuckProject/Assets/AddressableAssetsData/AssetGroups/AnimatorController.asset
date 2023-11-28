@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AnimatorController
+  m_EditorClassIdentifier: 
+  m_GroupName: AnimatorController
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8dce84e1ec4d41d409ce4ed7413fd7f1
+  m_SerializeEntries:
+  - m_GUID: 074386c6e07f01048a96d3aa7a7f4b8b
+    m_Address: Enemy1.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92884c3af50966041accc3da8983fbb7
+    m_Address: Enemy2.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f30265e99b8e9034683aed379ef08eb3
+    m_Address: Enemy3.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f74165a96541fc642b64c0b2c0fadaa0
+    m_Address: Enemy4.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c96bde0d657aa24d93e166bb613e094
+    m_Address: Enemy0.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 994753f7abe0a5b4f95541c35b20a7de
+    m_Address: Dog.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cae3e32aca280274892281cb4549a109
+    m_Address: DogBrown.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d84102cbdb46de043abb6e96f4eaca14
+    m_Address: DogBlack.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd2b65d548e05f24382266a707f70a4f
+    m_Address: DogWhite.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 101e6fd5974d6f94fbd225a0f8b32aad
+    m_Address: Cat.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ae0cd3231690924fa9ca060877ce4e5
+    m_Address: CatWhite.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e44c9820dbd33544785f3a531ef1a1ab
+    m_Address: CatCheese.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ccfdecd50b4e62418cdebb3e53ce6e5
+    m_Address: CatBlack.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38ca451dfbbfaa146bc88db5a59929fb
+    m_Address: DogElite.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 894b3ca68fc490340a9ed62baedb5663
+    m_Address: DogGuard.animController
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 88a2c445d8fd85f43972a983c4f4c1d9, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 32fc47fc37fc82949a4f42cb237be61f, type: 2}
+    - {fileID: 11400000, guid: 257560c8a1b5249458cd27345ce65b9a, type: 2}
